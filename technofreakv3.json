@@ -13,7 +13,7 @@
       "fb_id": 2,
       "name": "181.FM - Energy 98 - Dance Hits",
       "description":"Description",
-      "featured":0,
+      "featured":1,
       "url": "http://relay.181.fm:8800"
     },
     {
@@ -83,7 +83,7 @@
       "fb_id": 11,
       "name": "AH.FM - Leading Trance Radio",
       "description":"Description",
-      "featured":0,
+      "featured":1,
       "url": "http://37.187.0.6:9000"
     },
     {
@@ -179,7 +179,7 @@
       "fb_id": 23,
       "name": "cliqhop blips n bleeps",
       "description":"Description",
-      "featured":0,
+      "featured":1,
       "url": "http://ice1.somafm.com/cliqhop-128-mp3"
     },
     {
@@ -235,7 +235,7 @@
       "fb_id": 30,
       "name": "SanFM.ru=Drum and bass",
       "description":"Description",
-      "featured":0,
+      "featured":1,
       "url": "http://sanfm.ru:8000/drum"
     },
     {
@@ -299,7 +299,7 @@
       "fb_id": 38,
       "name": "SanFM.ru=Trance",
       "description":"Description",
-      "featured":0,
+      "featured":1,
       "url": "http://sanfm.ru:8000/trance"
     },
     {
@@ -359,11 +359,11 @@
       "url": "http://109.255.44.249:8000/"
     },
     {
-      "category": "Techno",
+      "category": "Dance",
       "fb_id": 46,
       "name": "Party 732 - Party Hits & Remixes",
       "description":"Description",
-      "featured":0,
+      "featured":1,
       "url": "http://74.82.59.197:8083"
     },
     {
@@ -415,7 +415,7 @@
       "url": "http://107.155.111.170:8140"
     },
     {
-      "category": "Techno",
+      "category": "House",
       "fb_id": 53,
       "name": "The Hot Fm",
       "description":"Description",
@@ -463,7 +463,7 @@
       "url": "http://listen.181fm.com:8074"
     },
     {
-      "category": "Techno",
+      "category": "Deep",
       "fb_id": 59,
       "name": "Chilltrax - The Worlds Chillout",
       "description":"Description",
