@@ -5,7 +5,7 @@
       "id": 1,
       "name": "Noise FM - Modern Electronic Radio",
       "description":"Description",
-      "featured":0,
+      "featured":1,
       "img":"https://www.radio.pervii.com/logo/1403829477.png",
       "url": "http://noisefm.ru:8000/play"
     },
