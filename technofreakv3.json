@@ -20,6 +20,15 @@
     },
     {
       "category": "Techno",
+      "fb_id": -1,
+      "name": "Ad",
+      "description":"Ad",
+      "img":"https://www.radio.net/images/broadcasts/38/12/2842/c300.png",
+      "featured":1,
+      "url": "http://relay.181.fm:8800"
+    },
+    {
+      "category": "Techno",
       "fb_id": 3,
       "name": "PlatinumRadioLondon",
       "description":"Description",
