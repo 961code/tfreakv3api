@@ -3,7 +3,7 @@
     {
       "rate_our_app": 0,
       "inter_ads_counter": 5,
-      "show_filters":0,
+      "show_filters":1,
       "show_carousels":1,
       "show_list":1
     }
