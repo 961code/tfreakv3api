@@ -10,7 +10,7 @@
       "url": "http://noisefm.ru:8000/play"
     },
     {
-      "category": "Techno",
+      "category": "Electro",
       "fb_id": 2,
       "name": "181.FM - Energy 98 - Dance Hits",
       "description":"Description",
@@ -18,6 +18,15 @@
       "featured":1,
       "url": "http://relay.181.fm:8800"
     },
+    {
+      "category": "Chillout",
+      "fb_id": 2,
+      "name": "ANTENNE BAYERN",
+      "description":"This Internet radio station plays lounge, chillout and the best relaxing music around.",
+      "img":"https://www.radio.net/images/broadcasts/21/d5/9117/1/c300.png",
+      "featured":1,
+      "url": "http://mp3channels.webradio.antenne.de/chillout"
+    }
     {
       "category": "Techno",
       "fb_id": -1,
