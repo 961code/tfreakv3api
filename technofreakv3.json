@@ -46,7 +46,7 @@
       "category": "Techno",
       "fb_id": 10,
       "name": "DEEP HOUSE LOUNGE - [www.deephouselounge.com]",
-      "description":"-",
+      "description":"",
       "featured":0,
       "url": "http://198.15.94.34:8030/url"
     },
@@ -233,7 +233,7 @@
       "category": "Techno",
       "fb_id": 36,
       "name": "181.fm - Awesome 80s",
-      "description":"-",
+      "description":"",
       "featured":0,
       "url": "http://relay.181.fm:8000"
     },
@@ -241,7 +241,7 @@
       "category": "Techno",
       "fb_id": 37,
       "name": "Ibiza Global Radio",
-      "description":"-",
+      "description":"",
       "featured":0,
       "url": "http://37.59.254.25:8024"
     },
@@ -249,7 +249,7 @@
       "category": "Techno",
       "fb_id": 38,
       "name": "AH.FM - Leading Trance Radio",
-      "description":"-",
+      "description":"",
       "featured":0,
       "url": "http://37.187.0.6:9000"
     },
@@ -257,7 +257,7 @@
       "category": "Techno",
       "fb_id": 39,
       "name": "Drone Zone: Atmospheric ambient space music",
-      "description":"-",
+      "description":"",
       "featured":0,
       "url": "http://ice1.somafm.com/dronezone-128-mp3"
     },
@@ -265,7 +265,7 @@
       "category": "Techno",
       "fb_id": 40,
       "name": "SanFM.ru=Trance",
-      "description":"-",
+      "description":"",
       "featured":1,
       "url": "http://sanfm.ru:8000/trance"
     },
@@ -273,7 +273,7 @@
       "category": "Techno",
       "fb_id": 41,
       "name": "hitukHD.mp3",
-      "description":"-",
+      "description":"",
       "featured":0,
       "url": "http://193.200.42.211:80/hitukHD.mp3"
     },
@@ -281,7 +281,7 @@
       "category": "Techno",
       "fb_id": -1,
       "name": "hitukHD.mp3",
-      "description":"-",
+      "description":"",
       "featured":0,
       "url": "http://193.200.42.211:80/hitukHD.mp3"
     },
@@ -289,7 +289,7 @@
       "category": "Techno",
       "fb_id": 42,
       "name": "#MUSIK.BIGCITYBEATS",
-      "description":"-",
+      "description":"",
       "featured":0,
       "url": "http://138.201.140.126:80"
     },
@@ -297,7 +297,7 @@
       "category": "Techno",
       "fb_id": 43,
       "name": "AddictedToRadio.com - Dance Hits",
-      "description":"-",
+      "description":"",
       "featured":0,
       "url": "http://208.77.21.21:10025"
     },
@@ -305,7 +305,7 @@
       "category": "Techno",
       "fb_id": 44,
       "name": "80 90 Lovers - Radio Mela",
-      "description":"-",
+      "description":"",
       "featured":0,
       "url": "http://5.39.82.157:8016"
     },
@@ -313,7 +313,7 @@
       "category": "Techno",
       "fb_id": 45,
       "name": "Budgie Collective",
-      "description":"-",
+      "description":"",
       "featured":0,
       "url": "http://play.budgiecollective.com:8456/url"
     },
@@ -321,7 +321,7 @@
       "category": "Techno",
       "fb_id": 46,
       "name": "DDM Radio Ireland",
-      "description":"-",
+      "description":"",
       "featured":0,
       "url": "http://109.255.44.249:8000/"
     },
@@ -329,7 +329,7 @@
       "category": "Dance",
       "fb_id": 47,
       "name": "Party 732 - Party Hits & Remixes",
-      "description":"-",
+      "description":"",
       "featured":1,
       "url": "http://74.82.59.197:8083"
     },
