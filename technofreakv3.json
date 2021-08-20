@@ -4,7 +4,7 @@
       "category": "Techno",
       "id": 1,
       "name": "Noise FM - Modern Electronic Radio",
-      "description":"Description",
+      "description":"",
       "featured":1,
       "img":"https://www.radio.pervii.com/logo/1403829477.png",
       "url": "http://noisefm.ru:8000/play"
@@ -13,7 +13,7 @@
       "category": "Electro",
       "fb_id": 2,
       "name": "181.FM - Energy 98 - Dance Hits",
-      "description":"Description",
+      "description":"Pop and dance music that everyone will enjoy",
       "img":"https://www.radio.net/images/broadcasts/38/12/2842/c300.png",
       "featured":1,
       "url": "http://relay.181.fm:8800"
@@ -22,21 +22,15 @@
       "category": "Techno",
       "fb_id": 3,
       "name": "PlatinumRadioLondon",
-      "description":"Description",
+      "description":"Dance music radio station, giving you all sub genres. Streaming live 24/7",
       "featured":0,
       "url": "http://91.121.78.191:8008/url"
     },
     {
       "category": "Techno",
-      "fb_id": 5,
-      "name": "Discover Trance Radio Worldwide",
-      "url": "http://91.121.138.173:8008/"
-    },
-    {
-      "category": "Techno",
       "fb_id": 6,
       "name": "Beat Blender SomaFM",
-      "description":"Description",
+      "description":"A perfect blend of midtempo and more upbeat electronica",
       "featured":0,
       "url": "http://ice1.somafm.com/beatblender-128-mp3"
     },
@@ -44,7 +38,7 @@
       "category": "Techno",
       "fb_id": 9,
       "name": "UZIC.CH :: TECHNO-MINIMAL",
-      "description":"Description",
+      "description":"The best of techno - minimal - electro internet radio on air",
       "featured":0,
       "url": "http://62.220.129.74:9010"
     },
@@ -52,7 +46,7 @@
       "category": "Techno",
       "fb_id": 10,
       "name": "DEEP HOUSE LOUNGE - [www.deephouselounge.com]",
-      "description":"Description",
+      "description":"-",
       "featured":0,
       "url": "http://198.15.94.34:8030/url"
     },
@@ -60,7 +54,7 @@
       "category": "Techno",
       "fb_id": 11,
       "name": "AH.FM - Leading Trance Radio",
-      "description":"Description",
+      "description":"Online radio that plays Trance & Progressive mixes produced exclusively for AH.FM",
       "featured":1,
       "url": "http://37.187.0.6:9000"
     },
@@ -68,23 +62,26 @@
       "category": "Techno",
       "fb_id": 12,
       "name": "Secret Agent [SomaFM]",
-      "description":"Description",
-      "featured":0,
+      "img":"https://somafm.com/img3/secretagent-400.jpg",
+      "description":"An eclectic blend of cinematic downtempo, stylish lounge, sambas and easy-tempo sixties European pop music",
+      "featured":1,
       "url": "http://ice1.somafm.com/secretagent-128-mp3"
     },
     {
       "category": "Techno",
       "fb_id": 13,
+      "img":"https://somafm.com/img3/dronezone-400.jpg",
       "name": "Drone Zone: Atmospheric ambient space music",
-      "description":"Description",
-      "featured":0,
+      "description":"Served best chilled, safe with most medications. Atmospheric textures with minimal beats.",
+      "featured":1,
       "url": "http://ice1.somafm.com/dronezone-128-mp3"
     },
     {
       "category": "Techno",
       "fb_id": 14,
+      "img":"https://dpi4fupzvxbqq.cloudfront.net/rfm/uploads/rlogo/300/300_1505421397.jpg",
       "name": "SanFM.ru=Trance",
-      "description":"Description",
+      "description":"",
       "featured":0,
       "url": "http://sanfm.ru:8000/trance"
     },
@@ -92,23 +89,24 @@
       "category": "Techno",
       "fb_id": 16,
       "name": "Minimal Mix Radio",
-      "description":"Description",
+      "description":"",
       "featured":0,
       "url": "http://5.39.71.159:8750/media"
     },
     {
       "category": "Techno",
       "fb_id": 18,
+      "img":"https://m.media-amazon.com/images/I/81Uc5suO3HL._SS500_.jpg",
       "name": "Party Vibe Radio - Psychedelic Trance",
-      "description":"Description",
-      "featured":0,
+      "description":"This psychedelic trance music radio station also plays a wide range of progressive, goa trance and psy-breaks",
+      "featured":1,
       "url": "http://www.partyvibe.com:8010/url/1/"
     },
     {
       "category": "Techno",
       "fb_id": 20,
       "name": "Electro Radio",
-      "description":"Description",
+      "description":"",
       "featured":0,
       "url": "http://url.electroradio.ch:26630"
     },
@@ -116,23 +114,24 @@
       "category": "Techno",
       "fb_id": 21,
       "name": "MUSIK.HOUSE FUNKY",
-      "description":"Description",
+      "description":"",
       "featured":0,
       "url": "http://138.201.209.118:80"
     },
     {
       "category": "Techno",
       "fb_id": 22,
-      "name": "Electro House) (UturnRadio",
-      "description":"Description",
+      "name": "Electro House - UturnRadio",
+      "description":"",
       "featured":0,
       "url": "http://play.uturnradio.com:80/electro_house"
     },
     {
       "category": "Techno",
       "fb_id": 23,
+      "img":"https://somafm.com/img3/cliqhop-400.jpg",
       "name": "cliqhop blips n bleeps",
-      "description":"Description",
+      "description":"Blips'n'beeps backed mostly w/beats. Intelligent Dance Music.",
       "featured":1,
       "url": "http://ice1.somafm.com/cliqhop-128-mp3"
     },
@@ -140,7 +139,7 @@
       "category": "Techno",
       "fb_id": 25,
       "name": "Drone Manipulation Radio",
-      "description":"Description",
+      "description":"",
       "featured":0,
       "url": "http://72.208.55.38:8000"
     },
@@ -148,7 +147,7 @@
       "category": "Techno",
       "fb_id": 26,
       "name": "24/7 Drums.ro - Drum N Bass",
-      "description":"Description",
+      "description":"",
       "featured":0,
       "url": "http://radio.drums.ro:8000/"
     },
@@ -156,7 +155,7 @@
       "category": "Techno",
       "fb_id": 27,
       "name": "innersence radio Drum N Bass world wide",
-      "description":"Description",
+      "description":"",
       "featured":0,
       "url": "http://50.7.71.219:7201/url"
     },
@@ -164,15 +163,16 @@
       "category": "Techno",
       "fb_id": 28,
       "name": "1.FM Amsterdam Trance Radio",
-      "description":"Description",
-      "featured":0,
+      "img":"https://cdn-radiotime-logos.tunein.com/s139915g.png",
+      "description":"",
+      "featured":1,
       "url": "http://185.33.21.112:11029"
     },
     {
       "category": "Techno",
       "fb_id": 29,
       "name": "CoolBeats Radio",
-      "description":"Description",
+      "description":"",
       "featured":0,
       "url": "http://67.212.166.178:7024"
     },
@@ -180,7 +180,7 @@
       "category": "Techno",
       "fb_id": 30,
       "name": "SanFM.ru=Drum and bass",
-      "description":"Description",
+      "description":"",
       "featured":1,
       "url": "http://sanfm.ru:8000/drum"
     },
@@ -188,63 +188,92 @@
       "category": "Techno",
       "fb_id": 31,
       "name": "Discover Trance Radio Worldwide",
-      "description":"Description",
+      "description":"",
       "featured":0,
       "url": "http://91.121.138.173:8008/"
     },
+    
+    
     {
       "category": "Techno",
       "fb_id": 32,
-      "name": "psyradio",
-      "description":"Description",
+      "name": "psyradio progressive",
+      "description":"",
       "featured":0,
       "url": "http://81.88.36.44:8010"
     },
     {
       "category": "Techno",
       "fb_id": 33,
+      "name": "psyradio chillout",
+      "description":"",
+      "featured":0,
+      "url": "http://81.88.36.44:8020"
+    },
+    {
+      "category": "Techno",
+      "fb_id": 34,
+      "name": "psyradio psytrance",
+      "description":"",
+      "featured":0,
+      "url": "http://81.88.36.44:8030"
+    },
+    {
+      "category": "Techno",
+      "fb_id": 35,
+      "name": "psyradio alternative",
+      "description":"",
+      "featured":0,
+      "url": "http://81.88.36.44:8040"
+    },
+    
+    
+    
+    {
+      "category": "Techno",
+      "fb_id": 36,
       "name": "181.fm - Awesome 80s",
-      "description":"Description",
+      "description":"-",
       "featured":0,
       "url": "http://relay.181.fm:8000"
     },
     {
       "category": "Techno",
-      "fb_id": 34,
+      "fb_id": 37,
       "name": "Ibiza Global Radio",
-      "description":"Description",
+      "description":"-",
       "featured":0,
       "url": "http://37.59.254.25:8024"
     },
     {
       "category": "Techno",
-      "fb_id": 35,
+      "fb_id": 38,
       "name": "AH.FM - Leading Trance Radio",
-      "description":"Description",
+      "description":"-",
       "featured":0,
       "url": "http://37.187.0.6:9000"
     },
     {
       "category": "Techno",
-      "fb_id": 37,
+      "fb_id": 39,
       "name": "Drone Zone: Atmospheric ambient space music",
-      "description":"Description",
+      "description":"-",
       "featured":0,
       "url": "http://ice1.somafm.com/dronezone-128-mp3"
     },
     {
       "category": "Techno",
-      "fb_id": 38,
+      "fb_id": 40,
       "name": "SanFM.ru=Trance",
-      "description":"Description",
+      "description":"-",
       "featured":1,
       "url": "http://sanfm.ru:8000/trance"
     },
     {
       "category": "Techno",
-      "fb_id": 39,
+      "fb_id": 41,
       "name": "hitukHD.mp3",
-      "description":"Description",
+      "description":"-",
       "featured":0,
       "url": "http://193.200.42.211:80/hitukHD.mp3"
     },
@@ -252,64 +281,65 @@
       "category": "Techno",
       "fb_id": -1,
       "name": "hitukHD.mp3",
-      "description":"Description",
+      "description":"-",
       "featured":0,
       "url": "http://193.200.42.211:80/hitukHD.mp3"
     },
     {
       "category": "Techno",
-      "fb_id": 40,
+      "fb_id": 42,
       "name": "#MUSIK.BIGCITYBEATS",
-      "description":"Description",
+      "description":"-",
       "featured":0,
       "url": "http://138.201.140.126:80"
     },
     {
       "category": "Techno",
-      "fb_id": 41,
+      "fb_id": 43,
       "name": "AddictedToRadio.com - Dance Hits",
-      "description":"Description",
+      "description":"-",
       "featured":0,
       "url": "http://208.77.21.21:10025"
     },
     {
       "category": "Techno",
-      "fb_id": 42,
+      "fb_id": 44,
       "name": "80 90 Lovers - Radio Mela",
-      "description":"Description",
+      "description":"-",
       "featured":0,
       "url": "http://5.39.82.157:8016"
     },
     {
       "category": "Techno",
-      "fb_id": 43,
+      "fb_id": 45,
       "name": "Budgie Collective",
-      "description":"Description",
+      "description":"-",
       "featured":0,
       "url": "http://play.budgiecollective.com:8456/url"
     },
     {
       "category": "Techno",
-      "fb_id": 45,
+      "fb_id": 46,
       "name": "DDM Radio Ireland",
-      "description":"Description",
+      "description":"-",
       "featured":0,
       "url": "http://109.255.44.249:8000/"
     },
     {
       "category": "Dance",
-      "fb_id": 46,
+      "fb_id": 47,
       "name": "Party 732 - Party Hits & Remixes",
-      "description":"Description",
+      "description":"-",
       "featured":1,
       "url": "http://74.82.59.197:8083"
     },
     {
       "category": "Techno",
-      "fb_id": 47,
+      "fb_id": 48,
       "name": "Groove Salad SomaFM",
-      "description":"Description",
-      "featured":0,
+      "img":"https://somafm.com/img3/groovesalad-400.jpg",
+      "description":"A nicely chilled plate of ambient/downtempo beats and grooves.",
+      "featured":1,
       "url": "http://ice1.somafm.com/groovesalad-128-mp3"
     }
   ]
