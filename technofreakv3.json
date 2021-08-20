@@ -19,29 +19,12 @@
       "url": "http://relay.181.fm:8800"
     },
     {
-      "category": "Chillout",
-      "fb_id": 30,
-      "name": "ANTENNE BAYERN",
-      "description":"This Internet radio station plays lounge, chillout and the best relaxing music around.",
-      "img":"https://www.radio.net/images/broadcasts/21/d5/9117/1/c300.png",
-      "featured":1,
-      "url": "http://mp3channels.webradio.antenne.de/chillout"
-    },
-    {
       "category": "Techno",
       "fb_id": 3,
       "name": "PlatinumRadioLondon",
       "description":"Description",
       "featured":0,
       "url": "http://91.121.78.191:8008/url"
-    },
-    {
-      "category": "Techno",
-      "fb_id": 4,
-      "name": "puls90HD.mp3",
-      "description":"Description",
-      "featured":0,
-      "url": "http://212.83.185.113:80/puls90HD.mp3"
     },
     {
       "category": "Techno",
@@ -56,22 +39,6 @@
       "description":"Description",
       "featured":0,
       "url": "http://ice1.somafm.com/beatblender-128-mp3"
-    },
-    {
-      "category": "Techno",
-      "fb_id": 7,
-      "name": "HARDTECHNO AND SCHRANZ",
-      "description":"Description",
-      "featured":0,
-      "url": "http://78.46.33.123:8000/schranz"
-    },
-    {
-      "category": "Techno",
-      "fb_id": 8,
-      "name": "DeepFM",
-      "description":"Description",
-      "featured":0,
-      "url": "http://195.66.134.42:80/sd"
     },
     {
       "category": "Techno",
@@ -123,14 +90,6 @@
     },
     {
       "category": "Techno",
-      "fb_id": 15,
-      "name": "1.FM - Dubstep Forward Radio",
-      "description":"Description",
-      "featured":0,
-      "url": "http://185.33.21.112:80/dubstep_128"
-    },
-    {
-      "category": "Techno",
       "fb_id": 16,
       "name": "Minimal Mix Radio",
       "description":"Description",
@@ -139,27 +98,11 @@
     },
     {
       "category": "Techno",
-      "fb_id": 17,
-      "name": "Bassdrive - Worldwide Drum and Bass",
-      "description":"Description",
-      "featured":0,
-      "url": "http://50.7.96.210:8600"
-    },
-    {
-      "category": "Techno",
       "fb_id": 18,
       "name": "Party Vibe Radio - Psychedelic Trance",
       "description":"Description",
       "featured":0,
       "url": "http://www.partyvibe.com:8010/url/1/"
-    },
-    {
-      "category": "Techno",
-      "fb_id": 19,
-      "name": "PulseEDM Dance Music Radio",
-      "description":"Description",
-      "featured":0,
-      "url": "http://pulseedm.cdnurl1.com:8124/1373_128"
     },
     {
       "category": "Techno",
@@ -192,14 +135,6 @@
       "description":"Description",
       "featured":1,
       "url": "http://ice1.somafm.com/cliqhop-128-mp3"
-    },
-    {
-      "category": "Techno",
-      "fb_id": 24,
-      "name": "jungletrain.net - 24/7 drum and bass",
-      "description":"Description",
-      "featured":0,
-      "url": "http://url3.jungletrain.net:8000/"
     },
     {
       "category": "Techno",
@@ -291,14 +226,6 @@
     },
     {
       "category": "Techno",
-      "fb_id": 36,
-      "name": "Trance1.FM",
-      "description":"Description",
-      "featured":0,
-      "url": "http://46.41.135.17:8000"
-    },
-    {
-      "category": "Techno",
       "fb_id": 37,
       "name": "Drone Zone: Atmospheric ambient space music",
       "description":"Description",
@@ -360,14 +287,6 @@
       "description":"Description",
       "featured":0,
       "url": "http://play.budgiecollective.com:8456/url"
-    },
-    {
-      "category": "Techno",
-      "fb_id": 44,
-      "name": "100Hitz - Top 40",
-      "description":"Description",
-      "featured":0,
-      "url": "http://69.4.234.186:9090"
     },
     {
       "category": "Techno",
